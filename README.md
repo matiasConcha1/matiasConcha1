@@ -13,7 +13,7 @@
 <p align="center">
   📍 Santiago, Chile &nbsp; • &nbsp;
   <a href="mailto:matiasconcha.2025@gmail.com">Email</a> &nbsp; • &nbsp;
-  <a href="https://linkedin.com/in/matias-alejandro-concha-escobar">LinkedIn</a> &nbsp; • &nbsp;
+  <a href="https://www.linkedin.com/in/matias-alejandro-concha-escobar-78885b356/">LinkedIn</a> &nbsp; • &nbsp;
   <a href="https://github.com/matiasConcha1">GitHub</a>
 </p>
 
