@@ -82,10 +82,10 @@ Tengo experiencia construyendo sistemas escalables en **AWS**, automatizando pro
 </p>
 
 ### ✨ Impacto
-- ✔️ Reducción del **100%** en errores operativos
-- ✔️ Mejora en consistencia de datos
-- ✔️ Despliegues más rápidos con **CI/CD**
-- ✔️ Optimización de procesos internos
+- Reducción del **100%** en errores operativos
+- Mejora en consistencia de datos
+- Despliegues más rápidos con **CI/CD**
+- Optimización de procesos internos
 
 ### 🛠️ Tecnologías usadas
 <p align="center">
