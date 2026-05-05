@@ -112,6 +112,21 @@ Tengo experiencia construyendo sistemas escalables en **AWS**, automatizando pro
   <img src="https://streak-stats.demolab.com?user=matiasConcha1&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
+---
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=matiasConcha1&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&margin-h=10&row=1&column=6" alt="GitHub Trophies" />
+</p>
+
+---
+
+## 📈 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=matiasConcha1&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph" />
+</p>
 
 ---
 
