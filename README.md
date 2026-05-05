@@ -104,26 +104,14 @@ Tengo experiencia construyendo sistemas escalables en **AWS**, automatizando pro
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img 
-    height="170"
-    src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=matiasConcha1&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"
-    alt="GitHub Stats"
-  />
-  <img 
-    height="170"
-    src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=matiasConcha1&layout=compact&theme=tokyonight&hide_border=true"
-    alt="Top Languages"
-  />
+  <img src="https://komarev.com/ghpvc/?username=matiasConcha1&label=Profile%20views&color=6366f1&style=for-the-badge" alt="Profile views" />
+  <img src="https://img.shields.io/github/followers/matiasConcha1?style=for-the-badge&color=6366f1&label=Followers" alt="GitHub followers" />
 </p>
 
 <p align="center">
-  <img 
-    src="https://streak-stats.demolab.com?user=matiasConcha1&theme=tokyonight&hide_border=true"
-    alt="GitHub Streak"
-  />
+  <img src="https://streak-stats.demolab.com?user=matiasConcha1&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
----
 
 ---
 
