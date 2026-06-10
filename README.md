@@ -153,7 +153,7 @@ Tengo experiencia construyendo sistemas escalables en **AWS**, automatizando pro
 ## 🌍 Idiomas
 
 - 🇪🇸 Español: Nativo
-- 🇺🇸 Inglés: Intermedio (B1)
+- 🇺🇸 Inglés: Intermedio (B2)
 
 ---
 
